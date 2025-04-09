@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "id": 166,
+            "full_name": "Виталий В",
+            "brigade_id": 1,
+            "brigade_name": "Бригада 1",
+            "date_of_birth": "2000-11-28",
+            "photo": "uploads\/67f5d5d6e92ef.jpg",
+            "created_at": "2025-04-09 05:05:10"
+        },
+        {
+            "id": 167,
+            "full_name": "Анатолий С",
+            "brigade_id": 3,
+            "brigade_name": "Бригада 3",
+            "date_of_birth": "2000-03-27",
+            "photo": "uploads\/67f5d5f2e99da.jpg",
+            "created_at": "2025-04-09 05:05:38"
+        }
+    ],
+    "exported_at": "2025-04-09 05:19:52"
+}
